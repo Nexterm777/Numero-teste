@@ -1,5 +1,5 @@
 alert("Bem-Vindo a porra do meu desafio de merda");
-let numeroMaximo = 100;  
+let numeroMaximo = 1000;  
 let numeroSecreto = parseInt(Math.random()*numeroMaximo+1);
 let chute;
 let tentativa = 1  
